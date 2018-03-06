@@ -1,2 +1,2 @@
 # python-introduction-yiyi-zhang-cu
-APMAE4990 Homework 1
+APMAE4990 Homeworks
